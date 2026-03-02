@@ -19,6 +19,16 @@ Este proyecto analiza datos de calidad del aire (PM2.5, PM10 y otros contaminant
 - Las diferencias más marcadas aparecen en gases como NO₂ y SO₂.
 
 ## Preguntas de negocio y respuestas con datos
+
+Este análisis responde a inquietudes clave para la gestión ambiental y la toma de decisiones:
+
+- **¿Dónde está el mayor riesgo?** → Cerro Navia concentra los niveles más altos de PM2.5.  
+- **¿Estamos cumpliendo normas?** → Todas las comunas superan los límites nacionales e internacionales.  
+- **¿Qué contaminante es más crítico?** → PM2.5 es el más problemático, mientras gases como NO₂ y SO₂ muestran variaciones.  
+- **¿Dónde falta monitoreo?** → Cerrillos carece de datos en varios contaminantes.  
+- **¿Qué impacto tienen las políticas actuales?** → Los PDA han reducido PM10, pero PM2.5 sigue siendo difícil de controlar.  
+- **¿Qué horizonte de tiempo se requiere?** → Una década o más para ver mejoras sostenidas.
+
 <img width="498" height="654" alt="image" src="https://github.com/user-attachments/assets/c1d89d5b-c302-40c4-b8ca-b02bab0484d1" />
 
 ## Visualizaciones
