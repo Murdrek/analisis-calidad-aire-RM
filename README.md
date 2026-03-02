@@ -27,6 +27,9 @@ El repositorio incluye gráficos comparativos que muestran:
 El análisis evidencia que la Región Metropolitana enfrenta un problema estructural de contaminación por material particulado fino.  
 Esto refuerza la necesidad de políticas públicas sostenidas, cumplimiento estricto y horizontes de largo plazo para lograr mejoras significativas en la calidad del aire.
 
+## Próximos pasos - Integrar datos meteorológicos (temperatura, viento, humedad) para enriquecer el análisis. - Aplicar modelos predictivos de series temporales (ARIMA, Prophet). - Comparar resultados con otras ciudades de Chile o Latinoamérica. - Evaluar impacto de políticas públicas recientes en la reducción de contaminantes.
+
+
 ## Cómo ejecutar
 1. Clonar el repositorio.
 2. Instalar dependencias: `pip install pandas matplotlib`.
