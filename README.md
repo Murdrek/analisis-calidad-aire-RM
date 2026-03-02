@@ -18,6 +18,9 @@ Este proyecto analiza datos de calidad del aire (PM2.5, PM10 y otros contaminant
 - Se detectaron valores faltantes en algunas comunas (ej. Cerrillos carece de datos para O₃, NO₂, SO₂ y CO).
 - Las diferencias más marcadas aparecen en gases como NO₂ y SO₂.
 
+## Preguntas de negocio y respuestas con datos
+<img width="498" height="654" alt="image" src="https://github.com/user-attachments/assets/c1d89d5b-c302-40c4-b8ca-b02bab0484d1" />
+
 ## Visualizaciones
 El repositorio incluye gráficos comparativos que muestran:
 - Concentraciones promedio de PM2.5 por comuna.
